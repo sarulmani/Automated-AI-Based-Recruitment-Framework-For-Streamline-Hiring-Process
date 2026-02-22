@@ -88,6 +88,7 @@ python main.py
 Open browser:
 
 http://127.0.0.1:5000/
+
 🔄 How the System Works
 
 Candidate registers and logs in
