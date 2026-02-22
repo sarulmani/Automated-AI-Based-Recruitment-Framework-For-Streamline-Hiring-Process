@@ -4,6 +4,7 @@ An intelligent recruitment automation system that evaluates candidates using Art
 
 This system helps organizations streamline hiring through automated screening and structured evaluation.
 
+
 📌 Project Overview
 
 The AI-Based Recruitment & Virtual HR System is a Flask-based web application designed to modernize the recruitment process.
@@ -25,6 +26,7 @@ Voice interaction module
 Result scoring & evaluation
 
 The system reduces manual HR workload and improves hiring efficiency.
+
 
 🚀 Key Features
 👤 Candidate Module
@@ -67,27 +69,38 @@ Voice Processing
 
 Automated Scoring System
 
+
 🛠️ Technology Stack
+
 Layer	Technology
+
 Backend	Python
+
 Framework	Flask
+
 Frontend	HTML, CSS, JavaScript
 AI / ML	OpenCV, NumPy
+
 Database	File-Based Storage
+
 Other Tools	Haarcascade Classifier
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/AI-Recruitment-System.git
 cd AI-Recruitment-System
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Run the Application
 python main.py
 
 Open browser:
 
 http://127.0.0.1:5000/
+
 
 🔄 How the System Works
 
@@ -104,6 +117,7 @@ System evaluates performance
 Final score stored in database
 
 Admin/Company can review candidate performance
+
 
 🎯 Advantages
 
@@ -129,8 +143,11 @@ Real-time video interview analysis
 
 Dashboard analytics
 
+
 👨‍💻 Author
 
 Arulmani S
+
 MCA-Final Year Project 
+
 Python & AI Domain
