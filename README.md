@@ -87,14 +87,18 @@ Other Tools	Haarcascade Classifier
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/AI-Recruitment-System.git
 cd AI-Recruitment-System
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the Application
+
 python main.py
 
 Open browser:
