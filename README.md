@@ -11,19 +11,19 @@ The AI-Based Recruitment & Virtual HR System is a Flask-based web application de
 
 It includes:
 
-Candidate registration & login
+• Candidate registration & login
 
-Company & admin modules
+• Company & admin modules
 
-Resume upload & verification
+• Resume upload & verification
 
-Aptitude test management
+• Aptitude test management
 
-Facial emotion detection using OpenCV
+• Facial emotion detection using OpenCV
 
-Voice interaction module
+• Voice interaction module
 
-Result scoring & evaluation
+• Result scoring & evaluation
 
 The system reduces manual HR workload and improves hiring efficiency.
 
@@ -31,59 +31,58 @@ The system reduces manual HR workload and improves hiring efficiency.
 🚀 Key Features
 👤 Candidate Module
 
-Candidate Registration & Login
+• Candidate Registration & Login
 
-Resume Upload
+• Resume Upload
 
-Profile Management
+• Profile Management
 
-Aptitude Test
+• Aptitude Test
 
-AI-Based Interview Analysis
+• AI-Based Interview Analysis
 
 🏢 Company Module
 
-Company Registration
+• Company Registration
 
-Post Job Vacancies
+• Post Job Vacancies
 
-View Applicants
+• View Applicants
 
 👨‍💼 Admin Module
 
-Add Skills
+• Add Skills
 
-Add Vacancies
+• Add Vacancies
 
-Manage Aptitude Questions
+• Manage Aptitude Questions
 
-Check Resume & Results
+• Check Resume & Results
 
 🤖 AI Modules
 
-Face Detection using Haar Cascade
+• Face Detection using Haar Cascade
 
-Emotion Recognition
+• Emotion Recognition
 
-Voice Processing
+• Voice Processing
 
-Automated Scoring System
+• Automated Scoring System
 
 
 🛠️ Technology Stack
 
-Layer	Technology
+• Backend     :	Python
 
-Backend	Python
+• Framework   :	Flask
 
-Framework	Flask
+• Frontend    :	HTML, CSS, JavaScript
 
-Frontend	HTML, CSS, JavaScript
-AI / ML	OpenCV, NumPy
+• AI / ML     :	OpenCV, NumPy
 
-Database	File-Based Storage
+• Database    :	File-Based Storage
 
-Other Tools	Haarcascade Classifier
+• Other Tools :	Haarcascade Classifier
 
 
 ⚙️ Installation & Setup
@@ -108,44 +107,44 @@ http://127.0.0.1:5000/
 
 🔄 How the System Works
 
-Candidate registers and logs in
+1.Candidate registers and logs in
 
-Uploads resume and attends aptitude test
+2.Uploads resume and attends aptitude test
 
-Face detection & emotion recognition module activates
+3.Face detection & emotion recognition module activates
 
-Voice module processes responses
+4.Voice module processes responses
 
-System evaluates performance
+5.System evaluates performance
 
-Final score stored in database
+6.Final score stored in database
 
-Admin/Company can review candidate performance
+7.Admin/Company can review candidate performance
 
 
 🎯 Advantages
 
-Reduces manual HR effort
+• Reduces manual HR effort
 
-Structured evaluation process
+• Structured evaluation process
 
-AI-assisted candidate screening
+• AI-assisted candidate screening
 
-Modular system design
+• Modular system design
 
-Easy to deploy and maintain
+• Easy to deploy and maintain
 
 🔮 Future Enhancements
 
-Integration with MongoDB / MySQL
+• Integration with MongoDB / MySQL
 
-Resume screening using NLP
+• Resume screening using NLP
 
-Cloud deployment
+• Cloud deployment
 
-Real-time video interview analysis
+• Real-time video interview analysis
 
-Dashboard analytics
+• Dashboard analytics
 
 
 👨‍💻 Author
